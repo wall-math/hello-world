@@ -1,2 +1,3 @@
 # hello-world
-This is a practice repository
+This is a practice repository.
+I am learning how to commit.
